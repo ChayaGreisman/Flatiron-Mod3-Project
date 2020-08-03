@@ -1,4 +1,4 @@
-## Cubicle
+## Cubicle - A project management app
 
 An SPA (single page application) project management app with a rails backend/API, JavaScript frontend.
 
